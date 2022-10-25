@@ -1,0 +1,47 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background: rgb(72, 72, 221);
+    font: normal 15pt Arial;
+}
+
+header {
+    color: white;
+    text-align: center;
+    margin: 10px;
+}
+
+main {
+    background: white;
+    font-size: 0.8em;
+    border-radius: 15px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px black;
+}
+
+p {
+    margin: 10px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    padding: 10px;
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+}
+
+footer {
+    margin: 15px;
+    color: white;
+    text-align: center;
+    font-size: 0.8em;
+    font-style: italic;
+}
+ 
